@@ -1,7 +1,7 @@
 import axios from "axios"
 
-const clientId = "cb0e364b3a124b408ebca2c2dc873701";
-const clientSecret = "1613a99356394208a0eeba0d4b633bf1";
+const clientId = "YOUR_CLIENT_ID_DASHBOARD_SPOTIFYDEV";
+const clientSecret = "YOUR_CLIENT_SECRET_DASHBOARD_SPOTIFYDEV";
 
 let accessToken;
 
