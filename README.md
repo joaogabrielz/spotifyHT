@@ -4,7 +4,7 @@
 ## Projeto criando um Porjeto consume API da Spotify👈 
     
 
-<img alt='print projeto' align="center" height="300" width="400" src="../master/assets/print.png">
+<img alt='print projeto' align="center" height="350" width="550" src="htspfy/src/assets/print.png">
 
 ## Instrucoes: 
   - para iniciar....
@@ -17,6 +17,5 @@
 <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS , 
 <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> JAVASCRIPT , 
 <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> VUE , 
-<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VsCode ,
- VITE
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VsCode 
 - Projeto responsivo feito baseado no Vida de Progamador Hightech
