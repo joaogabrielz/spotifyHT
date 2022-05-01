@@ -4,7 +4,7 @@
 ## Projeto criando um Porjeto consume API da Spotify👈 
     
 
-<img alt='print projeto' align="center" height="300" width="380" src="../master/print.png">
+<img alt='print projeto' align="center" height="300" width="400" src="../master/assets/print.png">
 
 ## Instrucoes: 
   - para iniciar....
