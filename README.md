@@ -2,21 +2,8 @@
 
 [//]:<> (../master/assets/img/print.png) 
 ## Projeto criando um Porjeto consume API da Spotify👈 
-    
 
 <img alt='print projeto' align="center" height="350" width="550" src="htspfy/src/assets/print.png">
-
-## Instrucoes: 
-  - para iniciar....
-  - cd htspfy
-  - npm i
-  - npm run dev
-
-  - Cadastrar sua Aplicação https://developer.spotify.com/
-    e Pegar seus clientId e SecretId
-     File ApiSpotify:
-      - const clientId = "YOUR_CLIENT_ID_DASHBOARD_SPOTIFYDEV";
-      - const clientSecret = "YOUR_CLIENT_SECRET_DASHBOARD_SPOTIFYDEV";
 
 ### Tecnologias usadas 👈 
 <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML , 
